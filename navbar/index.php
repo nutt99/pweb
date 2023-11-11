@@ -19,29 +19,40 @@
     </button>
     <div class="collapse justify-content-end navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="#">Home</a>
+        <a class="nav-link active" aria-current="page" href="#home">Home</a>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Feature
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li><a class="dropdown-item" href="#action">Action</a></li>
+            <li><a class="dropdown-item" href="#another">Another action</a></li>
+            <li><a class="dropdown-item" href="#else">Something else here</a></li>
           </ul>
         </li>
-        <a class="nav-link me-3" href="#">Pricing</a>
+        <a class="nav-link me-3" href="#pricing">Pricing</a>
         <form class="d-flex" role="search">
       <input class="form-control me-2 bg-light" type="search" placeholder="Search" aria-label="Search">
       <button class="btn btn-outline-light" type="submit">Search</button>
     </form>
-
       </div>
     </div>
-
   </div>
 </div>  
 <!-- End Navbar -->
+<!-- isian -->
+<div id="home">
+    <div class="container-fluid">
+        <div class="container">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur qui vero voluptas pariatur mollitia inventore tenetur vitae natus porro. Veritatis dolorem quia aperiam, excepturi nihil provident aut ex autem praesentium?
+            Fugit dignissimos quae iure alias. Et excepturi soluta aut numquam vel, architecto error neque expedita rem quas inventore iure aperiam eveniet quia quam? Ullam voluptatibus omnis amet animi quia rerum.
+            Nobis cupiditate ipsum voluptas aut repellendus, ratione ducimus. Voluptates ad cumque quae ipsam mollitia, tenetur adipisci, quos iusto recusandae aliquam rem. Libero consequatur qui recusandae sed placeat doloribus fugit? Accusantium.
+            Velit esse cumque est hic nulla. Quas natus eius sit, optio dignissimos molestias ab, veniam architecto eaque, tempore nobis? Ut laborum ab culpa nemo itaque quidem expedita rem iste maxime.
+            Voluptatibus, distinctio, ut suscipit ipsam saepe nobis quibusdam numquam ipsum architecto dolor iusto nam eligendi! Eaque hic deleniti odio modi autem molestias, dignissimos, esse accusantium voluptatum nam aliquam, ex atque.
+        </div>
+    </div>
+</div>
+<!-- akhir isian -->
     <script src="../bootstrap/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
