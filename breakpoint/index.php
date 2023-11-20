@@ -10,7 +10,7 @@
   <div class="text-center">
   <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
     <?php
-    for ($i = 1; $i < 10; $i++) {
+    for ($i = 10; $i < 20; $i++) {
     ?>
     <div class="col container mb-lg-3 mb-md-2 mb-4">
         <div class="p-3 container bg-danger"><?= $i;?></div>
